@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect
 title: STEAM Education Supplies
-description: Resources and Products for Science, Technology, Engineering & Math Education
+description: Resources and Products for Science, Technology, Engineering, Art & Math Education
+github:
+  is_user_page: false
